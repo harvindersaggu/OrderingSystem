@@ -1,10 +1,17 @@
-# Getting Started
 
-### Guides
-The following guides illustrate how to use some features concretely:
+API calls:
 
-* [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa/)
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
+ITEMS
+Get All items   -  /Items/
+Get Item by ID   -   /Items/{id}"
+Save Item Post Request  -   /
+Delete All Item Delete Request  - /
+Delete Item by Id delete request - /Items/{id}"
+
+ORDERS
+Get All Order   -  /Order/
+Get Order by ID   -   /Order/{id}"
+Save Order Post Request  -   /
+
+
 
